@@ -1,0 +1,13 @@
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\bin\Debug\Braking_distance.exe.config
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\bin\Debug\Braking_distance.exe
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\bin\Debug\Braking_distance.pdb
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\obj\Debug\Braking_distance.csproj.AssemblyReference.cache
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\obj\Debug\Braking_distance.csproj.SuggestedBindingRedirects.cache
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\obj\Debug\Braking_distance.FMainMenu.resources
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\obj\Debug\Braking_distance.Properties.Resources.resources
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\obj\Debug\Braking_distance.csproj.GenerateResource.cache
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\obj\Debug\Braking_distance.csproj.CoreCompileInputs.cache
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\obj\Debug\Braking_distance.exe
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\obj\Debug\Braking_distance.pdb
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\obj\Debug\Braking_distance.FCalculator.resources
+D:\ДЗ_Шаг\Windows Forms C#\Lessons_7\Braking_distance\obj\Debug\Braking_distance.FConnectDB.resources

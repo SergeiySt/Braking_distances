@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Braking_distance.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source = 192.168.226.135;  Initial Catalog = db_add; User ID = sa; Password = Colorado2020;</Value>
+    </Setting>
+    <Setting Name="ConnectionString_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source = 192.168.226.135;  Initial Catalog = master; User ID = sa; Password = Colorado2020;</Value>
+    </Setting>
+    <Setting Name="ConnectionString_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source = 192.168.226.135;  Initial Catalog = master; Trusted_Connection=True;</Value>
+    </Setting>
+    <Setting Name="ConnectionString_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source = 192.168.226.135;  Initial Catalog = db_add; Trusted_Connection=True;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
