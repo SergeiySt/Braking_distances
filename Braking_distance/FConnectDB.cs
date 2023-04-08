@@ -63,7 +63,7 @@ namespace Braking_distance
                         string createTableLevel = "CREATE TABLE TInfo(id_info int not null identity(1, 1) primary key, TDate date not null, TPogoda nvarchar(50) not null," +
                                 " TPokrutyaDorig nvarchar(50) not null, TStanProkrutyaDorig nvarchar(50) not null, TTupShunu nvarchar(50) not null," +
                                 " TShurunaShunu int not null, TVusotaShunu int not null, TDiametrShunu int not null, TMasaAvto int not null, TSvudkist float not null," +
-                                " TStanGlm nvarchar(50) not null, TResult int not null)";
+                                " TStanGlm nvarchar(50) not null, TResult float not null)";
 
                         sqlCommand_2.CommandText = createTableLevel;
                         reader_2 = sqlCommand_2.ExecuteReader();
@@ -125,7 +125,7 @@ namespace Braking_distance
                             string createTableLevel = "CREATE TABLE TInfo(id_info int not null identity(1, 1) primary key, TDate date not null, TPogoda nvarchar(50) not null," +
                                 " TPokrutyaDorig nvarchar(50) not null, TStanProkrutyaDorig nvarchar(50) not null, TTupShunu nvarchar(50) not null," +
                                 " TShurunaShunu int not null, TVusotaShunu int not null, TDiametrShunu int not null, TMasaAvto int not null, TSvudkist float not null," +
-                                "  TStanGlm nvarchar(50) not null, TResult int not null)";
+                                "  TStanGlm nvarchar(50) not null, TResult float not null)";
 
                             sqlCommand_2.CommandText = createTableLevel;
                             reader_2 = sqlCommand_2.ExecuteReader();
